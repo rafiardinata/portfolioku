@@ -1,4 +1,3 @@
-import { SpeedInsights } from "@vercel/speed-insights/next";
 
 /*==================== MENU SHOW Y HIDDEN ====================*/
 const navMenu = document.getElementById("nav-menu"),
