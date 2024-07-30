@@ -541,7 +541,7 @@ img {
 }
 
 .skills__photoshop {
-  width: 90%;
+  width: 95%;
 }
 
 .skills__xd {
@@ -966,7 +966,7 @@ img {
 
 .footer__social {
   font-size: 1.25rem;
-  margin-right: var(--mb-1-5);
+  margin-right: var(--mb-0-5);
 }
 
 .footer__social:hover {
